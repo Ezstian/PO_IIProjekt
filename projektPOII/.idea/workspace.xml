@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="147a08fd-21b3-49e7-ba15-d4315bde74e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Recipes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powtoreczka/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powtoreczka/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powtoreczka/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powtoreczka/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powtoreczka/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powtoreczka/Powtoreczka.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powtoreczka/src/DivideAndWin/CiagDZ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powtoreczka/src/DivideAndWin/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powtoreczka/src/MonteCarlo/monteCarlo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Powtoreczka/src/MonteCarlo/z1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjektPO2-KrystianCwiakala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/ZajeciaPO-main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/LoginForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/LoginForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/LoginForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/RadioTask$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/RadioTask$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/RadioTask$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/RadioTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/Welcome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/linux.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/mac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/out/production/ZajeciaPO-main/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-ant-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-ant-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-astbuilder-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-astbuilder-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-cli-commons-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-cli-commons-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-cli-picocli-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-cli-picocli-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-console-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-console-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-contracts-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-contracts-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-datetime-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-datetime-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-dateutil-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-dateutil-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-docgenerator-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-docgenerator-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-ginq-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-ginq-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-groovydoc-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-groovydoc-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-groovysh-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-groovysh-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-jmx-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-jmx-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-json-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-json-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-jsr223-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-jsr223-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-macro-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-macro-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-macro-library-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-macro-library-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-nio-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-nio-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-servlet-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-servlet-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-sql-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-sql-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-swing-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-swing-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-templates-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-templates-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-test-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-test-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-test-junit5-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-test-junit5-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-testng-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-testng-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-toml-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-toml-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-typecheckers-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-typecheckers-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-xml-5.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/lib/groovy-xml-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/LoginForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/LoginForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/LoginForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/RadioTask$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/RadioTask$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/RadioTask$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/RadioTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/Welcome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/linux.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/mac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/out/production/untitled/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/src/LoginForm.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/src/LoginForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/src/RadioTask.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/src/RadioTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/src/Welcome.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/src/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/src/linux.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/src/mac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/src/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZajeciaPO-main/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aisd/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/lab02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/MonteCarlo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/Zadanie1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/Zadanie1/passwordGen.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/Zadanie1/passwordGen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/Zadanie2/Formularz.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/Zadanie2/Formularz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/Zadanie2/LoginForm.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/Zadanie2/LoginForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/Zadanie2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/plecak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TableForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recipes.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TableForm.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ezstian&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ezstian/PO_IIprojekt.git&quot;,
+    &quot;accountId&quot;: &quot;a4436451-49de-4cbf-9e86-49db03333ad2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="37weDDZu4O7Ul1su9nUj3BbXDeu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/kryst/IdeaProjects/projektPOII/src/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="147a08fd-21b3-49e7-ba15-d4315bde74e8" name="Changes" comment="" />
+      <created>1767818439705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767818439705</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Git innit">
+      <option name="closed" value="true" />
+      <created>1767818661886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767818661886</updated>
+    </task>
+    <task id="LOCAL-00002" summary="formularz tabeli">
+      <option name="closed" value="true" />
+      <created>1767818769029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767818769029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Git innit" />
+    <MESSAGE value="formularz tabeli" />
+    <option name="LAST_COMMIT_MESSAGE" value="formularz tabeli" />
+  </component>
+</project>
