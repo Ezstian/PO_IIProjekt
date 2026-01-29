@@ -1,41 +1,43 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class MainPage extends JFrame {
+public class MainPageAdmin extends JFrame {
     private JPanel mainPanel;
     private JButton showRecipesBtn;
     private JButton addRecipeBtn;
     private JButton logoutBtn;
     private JLabel welcomeLabel;
-    private JButton statsBtn;
+    private JButton deleteBtn;
 
     private int userId;
     private String userName;
 
-    public MainPage(int userId, String userName) {
-        super("Książka Kucharska - Menu Główne");
+    public MainPageAdmin(int userId, String userName) {
+        super("Książka Kucharska - Panel Administratora");
         this.userId = userId;
         this.userName = userName;
+
 
         setContentPane(mainPanel);
         setSize(400, 500);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        welcomeLabel.setText("Witaj, " + userName + "!");
+        welcomeLabel.setText("Panel Admina ");
 
-        styleButton(showRecipesBtn, new Color(52, 152, 219));
+        styleButton(showRecipesBtn, new Color(44, 62, 80));
         styleButton(addRecipeBtn, new Color(52, 152, 219));
-        styleButton(statsBtn, new Color(46, 204, 113));
+        styleButton(deleteBtn, new Color(46, 204, 113));
         styleButton(logoutBtn, new Color(231, 76, 60));
+
         showRecipesBtn.addActionListener(e -> new MyRecipes(userId));
         addRecipeBtn.addActionListener(e -> new AddRecipe(userId));
 
-        statsBtn.addActionListener(e -> {
+        deleteBtn.addActionListener(e -> {
             try {
-                new Stats(userId, userName);
+                new DeleteUser();
             } catch (Exception ex) {
-                JOptionPane.showMessageDialog(this, "Klasa Stats jeszcze nie istnieje!");
+                JOptionPane.showMessageDialog(this, "Błąd: Klasa Stats nie istnieje!");
             }
         });
 
@@ -55,5 +57,7 @@ public class MainPage extends JFrame {
         btn.setFont(new Font("Segoe UI", Font.BOLD, 14));
         btn.setCursor(new Cursor(Cursor.HAND_CURSOR));
         btn.setBorder(BorderFactory.createEmptyBorder(10, 25, 10, 25));
+
+
     }
 }
