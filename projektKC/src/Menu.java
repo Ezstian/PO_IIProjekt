@@ -7,9 +7,9 @@ public class Menu extends JFrame {
     private JButton zaloguj;
 
     public Menu() {
-        super("Panel logowania");
+        super("Menu");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setSize(400,500);
+        setSize(420, 500);
         this.setContentPane(this.menuPanel);
         setVisible(true);
         zaloguj.addActionListener(new ActionListener() {
@@ -19,5 +19,6 @@ public class Menu extends JFrame {
                 dispose();
             }
         });
+
     }
 }

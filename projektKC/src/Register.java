@@ -15,8 +15,8 @@ public class Register extends JFrame {
     public Register() {
         super("Panel rejestracji");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setSize(400,500);
-        this.setContentPane(this.registerPanel);
+        setSize(400, 500);
+        setContentPane(this.registerPanel);
         setVisible(true);
         zarejestrujSieButton.addActionListener(new ActionListener() {
             @Override
@@ -28,11 +28,11 @@ public class Register extends JFrame {
 
 
                 if (name.isEmpty() || email.isEmpty() || pass1.isEmpty() || pass2.isEmpty()) {
-                    JOptionPane.showMessageDialog(null, "Wszystkie pola muszą być wypełnione!", "Błąd walidacji", JOptionPane.WARNING_MESSAGE);
+                    JOptionPane.showMessageDialog(null, "Wszystkie pola muszą być wypełnione!",
+                            "Błąd walidacji", JOptionPane.WARNING_MESSAGE);
                     return;
                 }
 
-                // 3. Jeśli dane są poprawne, przechodzimy do bazy
                 String url = "jdbc:mysql://localhost:3306/ksiazkakucharska";
                 String user = "root";
                 String password = "";
